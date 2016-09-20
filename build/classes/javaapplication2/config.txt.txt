@@ -1,0 +1,22 @@
+Agent:
+  number=3
+
+Soldier:
+  number=3
+
+Untouchable:
+  number=3
+
+Citizen:
+  number=50
+
+Camp:
+  number=3
+
+Storage:
+  number=3
+
+Terrorist:
+  number=5
+
+	
